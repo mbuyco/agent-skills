@@ -29,6 +29,7 @@ allowed-tools: <optional list>
 - `laravel-12-best-pratices/` - Best practices for Laravel 12.x (architecture, Eloquent, testing, security, performance).
 - `performance-analysis/` - Structured performance reasoning: bottlenecks, caching, validation/measurement.
 - `security-review/` - Threat modeling and security review guidance (STRIDE-style analysis, mitigations).
+- `software-engineer/` - Generalized software engineering guidance for security, cost, performance, reliability, and pragmatic delivery.
 - `system-design/` - System design reasoning and documentation templates (requirements, components, trade-offs).
 
 ## Using These Skills
